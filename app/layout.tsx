@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Weather Widget",
+  title: "Weather Widget by hafsa",
   description: "A widget to display the current weather of a location.",
 };
 
